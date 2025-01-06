@@ -1,0 +1,12 @@
+html{
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  background: #ecffc1;
+  background: -webkit-radial-gradient(circle, #ecffc1 0%, #ffe6cc 50%, #dfbaf7 100%);
+  background: radial-gradient(circle, #ecffc1 0%, #ffe6cc 50%, #dfbaf7 100%);
+}
+
+
+h1{
+  font-size: 25px;text-align: center;
+}
